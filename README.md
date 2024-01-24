@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+# <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/> Bienvenid@s al Github de Yenifer
+
+
+
+
+
+=======
 <div id="header" align="center">
   <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Java_Developer_Job_Description.jpg"/>
   <h1 align="center"> Hello 👋 soy Yenifer</h1>
@@ -24,3 +32,5 @@ width="80" height="80" />
 
 
 </div>
+
+>>>>>>> c83f0dc14aefc97bac40acfafab4395bd04ec51e
