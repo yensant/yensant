@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/> Bienvenid@s al Github de Yenifer
+
 
 ![Banne de yenifer](github-header-image.png)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/)
